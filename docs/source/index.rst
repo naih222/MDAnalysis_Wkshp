@@ -12,6 +12,8 @@ Welcome to mdgeomik's documentation!
 
    getting_started
    api
+   getting_strd
+   about
 
 
 
